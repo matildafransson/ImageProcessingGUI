@@ -1,0 +1,23 @@
+Movie Parameter:
+  Frame_Rate: '5000'
+  Frame_Rate_Saved: '45'
+  Pixel_Size: '20'
+  Pos_Contrast:
+  - 0.47
+  - 1.19
+  - 0.09
+  - 1.19
+  Pos_Label_Scale_Bar:
+  - 0
+  - 0
+  Pos_Scale_Bar:
+  - 0
+  - 0
+  Pos_Time:
+  - 0
+  - 0
+  Pos_Title:
+  - 0
+  - 0
+  Starting_time: 0.0002
+  Title: P42A_ST_Exp2 Fransson & Pfaff (2022)
